@@ -1,6 +1,6 @@
-# Hi there! I'm John Doe 👋
+# Hi there! I'm Hani Olwan 👋
 
-I'm a passionate front-end developer specializing in React.js and Next.js at Awtar Tech.
+I'm a front-end developer specializing in React.js and Next.js at Awtar Tech.
 
 ## 📍 Location
 Palestine, GZ
