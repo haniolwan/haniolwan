@@ -22,7 +22,7 @@ Palestine, GZ
 
 ## 🚀 Projects
 1. **Awtar Website**
-    - [Naser IT](https://www.awtartec.com/)
+    - [Awtar Tech](https://www.awtartec.com/)
 
 2. **Portfolio Website**
     - [Naser IT](https://naserit.netlify.app)
