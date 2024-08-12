@@ -16,11 +16,12 @@ When I'm not coding find me play music or trying to jump out of the nearest plan
 </div>
 <br>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![Vue Js](https://img.shields.io/badge/vue.js-%42b883.svg?style=for-the-badge&logo=vue.js&logoColor=35495e)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=Laravel&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-### Top Skills:
 
-<!-- &nbsp;
- -->
+### Top Skills:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![Vue Js](https://img.shields.io/badge/vue.js-%42b883.svg?style=for-the-badge&logo=vue.js&logoColor=35495e)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=Laravel&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+ &nbsp;
+
 ## ✏️ &nbsp;Blog posts
 
 <!-- BLOG-POST-LIST:START -->
